@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectClass>
+		<ID>b6abd421-2ee1-ee11-1bab-00155d6f92ce</ID>
+		<Name>CAEMExtensionPickupStatus</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<Schema-MetaInfo>
+			<Name>DisplayExpression</Name>
+			<Value>DisplayString</Value>
+		</Schema-MetaInfo>
+		<DisplayName>Extension Status</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<ClassType>4</ClassType>
+		<DisableHistory>1</DisableHistory>
+		<BasicSchemaAttributeClass>
+			<ID>b7abd421-2ee1-ee11-1bab-00155d6f92ce</ID>
+			<Name>DisplayString</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description>Display value for the pickup</Description>
+			<DisplayName>Display String</DisplayName>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>1</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>50</AttributeLength>
+			<LanguageDependent>1</LanguageDependent>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>b8abd421-2ee1-ee11-1bab-00155d6f92ce</ID>
+			<Name>Value</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description>ID value for the pickup</Description>
+			<DisplayName>Value</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>2</ValueType>
+			<AttributeLength>4</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>b9abd421-2ee1-ee11-1bab-00155d6f92ce</ID>
+			<Name>Position</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description>Position for the pickup</Description>
+			<DisplayName>Position</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>1</AllowNull>
+			<ValueType>2</ValueType>
+			<AttributeLength>4</AttributeLength>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectClass>
+</NewDataSet>

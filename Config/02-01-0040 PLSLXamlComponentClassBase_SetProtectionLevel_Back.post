@@ -1,0 +1,3 @@
+UPDATE SchemaObjectClass
+SET ProtectionLevel = 2
+WHERE Name='PLSLXamlComponentClassBase'

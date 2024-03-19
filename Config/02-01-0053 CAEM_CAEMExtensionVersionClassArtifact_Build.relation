@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectRelation>
+		<ID>ef2ef409-2ee1-ee11-1bab-00155d6f92ce</ID>
+		<Name>FK_CAEMExtensionVersionClassBuildCAEMExtensionVersionClassArtifact_ArtifactBuild</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DBRelation>0</DBRelation>
+		<RelationClass>2</RelationClass>
+		<BasicSchemaAttributeClass
+			Side="Left">
+			<ID>c3cceb0f-2ee1-ee11-1bab-00155d6f92ce</ID>
+			<Name>Artifact</Name>
+			<BelongsToSchemaObjectClass>2fe01dc1-46dd-ee11-1aab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Artifact</DisplayName>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass
+			Side="Right">
+			<ID>c4cceb0f-2ee1-ee11-1bab-00155d6f92ce</ID>
+			<Name>Build</Name>
+			<BelongsToSchemaObjectClass>788d8d1e-46dd-ee11-1aab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Build</DisplayName>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectRelation>
+</NewDataSet>

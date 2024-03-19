@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectRelation>
+		<ID>c8fe987d-2de1-ee11-1bab-00155d6f92ce</ID>
+		<Name>FK_CAEMExtensionClassAudienceCAEMCustomer_ReleaseBuildCustomersReleaseBuildAudiences</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DBNMTableName>SchemaRelation-CAEMExtensionClassAudience2CAEMCustomer1</DBNMTableName>
+		<DBRelation>0</DBRelation>
+		<RelationClass>1</RelationClass>
+		<BasicSchemaAttributeClass
+			Side="Left">
+			<ID>e6669383-2de1-ee11-1bab-00155d6f92ce</ID>
+			<Name>ReleaseBuildCustomers</Name>
+			<BelongsToSchemaObjectClass>cefe987d-2de1-ee11-1bab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Release Build Customers</DisplayName>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass
+			Side="Right">
+			<ID>e7669383-2de1-ee11-1bab-00155d6f92ce</ID>
+			<Name>ReleaseBuildAudiences</Name>
+			<BelongsToSchemaObjectClass>1a632665-84dd-ee11-1aab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Release Build Audiences</DisplayName>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectRelation>
+</NewDataSet>

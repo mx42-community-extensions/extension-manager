@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectClass>
+		<ID>1a632665-84dd-ee11-1aab-00155d6f92ce</ID>
+		<Name>CAEMCustomer</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DisplayName>Customer</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<ClassType>13</ClassType>
+		<DisableHistory>1</DisableHistory>
+		<BasicSchemaAttributeClass>
+			<ID>0e632665-84dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>CompanyName</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Company Name</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>300</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>0f632665-84dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>ContactName</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Contact Name</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>300</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>10632665-84dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>ContactEmail</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Contact E-Mail</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>320</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>11632665-84dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>CustomerReference</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Customer Reference</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>100</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>12632665-84dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>Matrix42CustomerNumber</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Matrix42 Customer Number</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>100</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>13632665-84dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>Notes</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Schema-MetaInfo>
+				<Name>ContainsHtml</Name>
+				<Value>True</Value>
+			</Schema-MetaInfo>
+			<Description />
+			<DisplayName>Notes</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>1</AllowNull>
+			<ValueType>8</ValueType>
+			<AttributeLength>0</AttributeLength>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectClass>
+</NewDataSet>

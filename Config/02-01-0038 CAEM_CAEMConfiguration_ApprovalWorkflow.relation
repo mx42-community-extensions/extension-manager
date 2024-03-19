@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectRelation>
+		<ID>af19cb69-5de0-ee11-1aab-00155d6f92ce</ID>
+		<Name>FK_PLSLXamlComponentClassBaseCAEMConfiguration_ExtensionManagerApprovalApprovalWorkflow</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DBRelation>0</DBRelation>
+		<RelationClass>2</RelationClass>
+		<BasicSchemaAttributeClass
+			Side="Left">
+			<ID>2557c36f-5de0-ee11-1aab-00155d6f92ce</ID>
+			<Name>ExtensionManagerApproval</Name>
+			<BelongsToSchemaObjectClass>b21c6ae9-3d91-e111-489e-6cf049029115</BelongsToSchemaObjectClass>
+			<DisplayName>Extension Manager Approval</DisplayName>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass
+			Side="Right">
+			<ID>2657c36f-5de0-ee11-1aab-00155d6f92ce</ID>
+			<Name>ApprovalWorkflow</Name>
+			<BelongsToSchemaObjectClass>00604607-42dd-ee11-1aab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Approval Workflow</DisplayName>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectRelation>
+</NewDataSet>

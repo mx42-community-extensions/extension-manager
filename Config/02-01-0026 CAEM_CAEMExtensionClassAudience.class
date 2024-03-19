@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectClass>
+		<ID>cefe987d-2de1-ee11-1bab-00155d6f92ce</ID>
+		<Name>CAEMExtensionClassAudience</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DisplayName>Extension Audience</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<ClassType>3</ClassType>
+		<DisableHistory>1</DisableHistory>
+		<BasicSchemaAttributeClass>
+			<ID>c9fe987d-2de1-ee11-1bab-00155d6f92ce</ID>
+			<Name>DevAllowList</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Dev Allow List</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>9</ValueType>
+			<AttributeLength>1</AttributeLength>
+			<DefaultValue>1</DefaultValue>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>cafe987d-2de1-ee11-1bab-00155d6f92ce</ID>
+			<Name>PreReleaseAllowList</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Pre-Release Allow List</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>9</ValueType>
+			<AttributeLength>1</AttributeLength>
+			<DefaultValue>1</DefaultValue>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>cbfe987d-2de1-ee11-1bab-00155d6f92ce</ID>
+			<Name>ReleaseAllowList</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Release Allow List</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>9</ValueType>
+			<AttributeLength>1</AttributeLength>
+			<DefaultValue>0</DefaultValue>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectClass>
+</NewDataSet>

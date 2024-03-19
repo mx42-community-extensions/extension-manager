@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectRelation>
+		<ID>7213bbcf-48e1-ee11-1bab-00155d6f92ce</ID>
+		<Name>FK_CAEMExtensionEntitlementCAEMCustomerSystem_LimitedToCustomerSystemsEntitlements</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DBNMTableName>SchemaRelation-CAEMExtensionEntitlement2CAEMCustomerSystem</DBNMTableName>
+		<DBRelation>0</DBRelation>
+		<RelationClass>1</RelationClass>
+		<BasicSchemaAttributeClass
+			Side="Left">
+			<ID>9f13bbcf-48e1-ee11-1bab-00155d6f92ce</ID>
+			<Name>LimitedToCustomerSystems</Name>
+			<BelongsToSchemaObjectClass>41be0d9f-87dd-ee11-1aab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Limited To Customer Systems</DisplayName>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass
+			Side="Right">
+			<ID>a013bbcf-48e1-ee11-1bab-00155d6f92ce</ID>
+			<Name>Entitlements</Name>
+			<BelongsToSchemaObjectClass>0d44b18f-85dd-ee11-1aab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Entitlements</DisplayName>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectRelation>
+</NewDataSet>

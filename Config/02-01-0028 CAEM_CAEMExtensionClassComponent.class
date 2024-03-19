@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectClass>
+		<ID>a7d7fd2f-49dd-ee11-1aab-00155d6f92ce</ID>
+		<Name>CAEMExtensionClassComponent</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DisplayName>Extension Component</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<ClassType>3</ClassType>
+		<DisableHistory>1</DisableHistory>
+		<BasicSchemaAttributeClass>
+			<ID>a2d7fd2f-49dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>IsFree</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Is Free</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>9</ValueType>
+			<AttributeLength>1</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>a3d7fd2f-49dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>Name</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Name</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>200</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>a4d7fd2f-49dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>Description</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Schema-MetaInfo>
+				<Name>ContainsHtml</Name>
+				<Value>True</Value>
+			</Schema-MetaInfo>
+			<Description />
+			<DisplayName>Description</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>8</ValueType>
+			<AttributeLength>0</AttributeLength>
+			<LanguageDependent>1</LanguageDependent>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectClass>
+</NewDataSet>

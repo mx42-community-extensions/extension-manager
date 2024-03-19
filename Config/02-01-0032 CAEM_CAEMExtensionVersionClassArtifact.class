@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectClass>
+		<ID>788d8d1e-46dd-ee11-1aab-00155d6f92ce</ID>
+		<Name>CAEMExtensionVersionClassArtifact</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DisplayName>Extension Version Artifact</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<ClassType>3</ClassType>
+		<DisableHistory>1</DisableHistory>
+		<BasicSchemaAttributeClass>
+			<ID>718d8d1e-46dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>CreationDate</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Creation Date</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>3</ValueType>
+			<AttributeLength>9</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>728d8d1e-46dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>M42WSMVersion</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>M42 WSM Version</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>20</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>738d8d1e-46dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>Url</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Url</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>2000</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>d09bb64e-3be1-ee11-1bab-00155d6f92ce</ID>
+			<Name>BuildType</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Build Type</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>2</ValueType>
+			<AttributeLength>4</AttributeLength>
+			<PickupClass>45d1cb16-3be1-ee11-1bab-00155d6f92ce</PickupClass>
+			<PickupAttribute>Value</PickupAttribute>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectClass>
+</NewDataSet>

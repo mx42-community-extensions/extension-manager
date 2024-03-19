@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectRelation>
+		<ID>923a0d3b-47e1-ee11-1bab-00155d6f92ce</ID>
+		<Name>FK_CAEMExtensionCAEMCustomerSystemClassInstallation_InstallationsExtension</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DBRelation>0</DBRelation>
+		<RelationClass>0</RelationClass>
+		<BasicSchemaAttributeClass
+			Side="Left">
+			<ID>933a0d3b-47e1-ee11-1bab-00155d6f92ce</ID>
+			<Name>Installations</Name>
+			<BelongsToSchemaObjectClass>4c407d86-48dd-ee11-1aab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Installations</DisplayName>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass
+			Side="Right">
+			<ID>943a0d3b-47e1-ee11-1bab-00155d6f92ce</ID>
+			<Name>Extension</Name>
+			<BelongsToSchemaObjectClass>9681cd2f-86dd-ee11-1aab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Extension</DisplayName>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectRelation>
+</NewDataSet>

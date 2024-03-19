@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectRelation>
+		<ID>7668b437-2fe1-ee11-1bab-00155d6f92ce</ID>
+		<Name>FK_CAEMExtensionCAEMExtensionClassDependency_DependentsDependency</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DBRelation>0</DBRelation>
+		<RelationClass>3</RelationClass>
+		<BasicSchemaAttributeClass
+			Side="Left">
+			<ID>7868b437-2fe1-ee11-1bab-00155d6f92ce</ID>
+			<Name>Dependents</Name>
+			<BelongsToSchemaObjectClass>4c407d86-48dd-ee11-1aab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Dependents</DisplayName>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass
+			Side="Right">
+			<ID>7968b437-2fe1-ee11-1bab-00155d6f92ce</ID>
+			<Name>Dependency</Name>
+			<BelongsToSchemaObjectClass>f1f858da-49dd-ee11-1aab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Dependency</DisplayName>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectRelation>
+</NewDataSet>

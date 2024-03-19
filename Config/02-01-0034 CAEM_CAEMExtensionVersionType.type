@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectType>
+		<ID>8d1d2949-47dd-ee11-1aab-00155d6f92ce</ID>
+		<Name>CAEMExtensionVersionType</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<Schema-MetaInfo>
+			<Name>ArchivingEnabled</Name>
+			<Value>False</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>AddActionPosition</Name>
+			<Value>0</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>UseUserCurrency</Name>
+			<Value>False</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>StateGroup</Name>
+			<Value>0</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>UUXColor</Name>
+			<Value>#FEDDDB</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>DisplayExpression</Name>
+			<Value>'N/A'</Value>
+		</Schema-MetaInfo>
+		<DisplayName>Extension Version Type</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<BasedOnTypeClass>76cdc149-44dd-ee11-1aab-00155d6f92ce</BasedOnTypeClass>
+		<BasicSchemaObjectTypeToClass>
+			<RelatedSchemaObjectClass>788d8d1e-46dd-ee11-1aab-00155d6f92ce</RelatedSchemaObjectClass>
+			<Cardinality>3</Cardinality>
+			<ProtectionLevel>4</ProtectionLevel>
+		</BasicSchemaObjectTypeToClass>
+		<BasicSchemaObjectTypeToClass>
+			<RelatedSchemaObjectClass>2fe01dc1-46dd-ee11-1aab-00155d6f92ce</RelatedSchemaObjectClass>
+			<Cardinality>3</Cardinality>
+			<ProtectionLevel>4</ProtectionLevel>
+		</BasicSchemaObjectTypeToClass>
+	</BasicSchemaObjectType>
+</NewDataSet>

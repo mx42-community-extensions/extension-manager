@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectClass>
+		<ID>1c824ec7-85dd-ee11-1aab-00155d6f92ce</ID>
+		<Name>CAEMCustomerSystemClassRegistration</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DisplayName>Customer System Class Registration</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<ClassType>3</ClassType>
+		<DisableHistory>1</DisableHistory>
+		<BasicSchemaAttributeClass>
+			<ID>17824ec7-85dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>RegistrationComment</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Schema-MetaInfo>
+				<Name>ContainsHtml</Name>
+				<Value>True</Value>
+			</Schema-MetaInfo>
+			<Description />
+			<DisplayName>Registration Comment</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>8</ValueType>
+			<AttributeLength>0</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>18824ec7-85dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>DetectedCompanyName</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Detected Company Name</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>300</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>19824ec7-85dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>RegistrationDate</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Registration Date</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>3</ValueType>
+			<AttributeLength>9</AttributeLength>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectClass>
+</NewDataSet>

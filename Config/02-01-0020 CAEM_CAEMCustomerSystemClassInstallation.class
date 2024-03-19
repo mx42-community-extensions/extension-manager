@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectClass>
+		<ID>9681cd2f-86dd-ee11-1aab-00155d6f92ce</ID>
+		<Name>CAEMCustomerSystemClassInstallation</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DisplayName>Customer System Installation</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<ClassType>3</ClassType>
+		<DisableHistory>1</DisableHistory>
+		<BasicSchemaAttributeClass>
+			<ID>9181cd2f-86dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>FirstScanDate</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>First Scan Date</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>3</ValueType>
+			<AttributeLength>9</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>9281cd2f-86dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>LastChangeDate</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Last Change Date</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>3</ValueType>
+			<AttributeLength>9</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>9381cd2f-86dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>CurrentVersionName</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Current Version Name</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>50</AttributeLength>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectClass>
+</NewDataSet>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectType>
+		<ID>99142f49-86dd-ee11-1aab-00155d6f92ce</ID>
+		<Name>CAEMCustomerSystemType</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<Schema-MetaInfo>
+			<Name>ArchivingEnabled</Name>
+			<Value>False</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>AddActionPosition</Name>
+			<Value>0</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>UseUserCurrency</Name>
+			<Value>False</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>StateGroup</Name>
+			<Value>0</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>UUXColor</Name>
+			<Value>#D6E7F4</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>DisplayExpression</Name>
+			<Value>'N/A'</Value>
+		</Schema-MetaInfo>
+		<DisplayName>Customer System</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<BasedOnTypeClass>0d44b18f-85dd-ee11-1aab-00155d6f92ce</BasedOnTypeClass>
+		<BasicSchemaObjectTypeToClass>
+			<RelatedSchemaObjectClass>1c824ec7-85dd-ee11-1aab-00155d6f92ce</RelatedSchemaObjectClass>
+			<Cardinality>0</Cardinality>
+			<ProtectionLevel>4</ProtectionLevel>
+		</BasicSchemaObjectTypeToClass>
+		<BasicSchemaObjectTypeToClass>
+			<RelatedSchemaObjectClass>9681cd2f-86dd-ee11-1aab-00155d6f92ce</RelatedSchemaObjectClass>
+			<Cardinality>3</Cardinality>
+			<ProtectionLevel>4</ProtectionLevel>
+		</BasicSchemaObjectTypeToClass>
+	</BasicSchemaObjectType>
+</NewDataSet>

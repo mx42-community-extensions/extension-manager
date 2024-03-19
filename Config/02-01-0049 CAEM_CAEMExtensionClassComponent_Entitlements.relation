@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectRelation>
+		<ID>7113bbcf-48e1-ee11-1bab-00155d6f92ce</ID>
+		<Name>FK_CAEMExtensionEntitlementCAEMExtensionClassComponent_EntitledComponentsEntitlements</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DBNMTableName>SchemaRelation-CAEMExtensionEntitlement2CAEMExtensionClassComponent</DBNMTableName>
+		<DBRelation>0</DBRelation>
+		<RelationClass>1</RelationClass>
+		<BasicSchemaAttributeClass
+			Side="Left">
+			<ID>8b13bbcf-48e1-ee11-1bab-00155d6f92ce</ID>
+			<Name>EntitledComponents</Name>
+			<BelongsToSchemaObjectClass>41be0d9f-87dd-ee11-1aab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Entitled Components</DisplayName>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass
+			Side="Right">
+			<ID>8c13bbcf-48e1-ee11-1bab-00155d6f92ce</ID>
+			<Name>Entitlements</Name>
+			<BelongsToSchemaObjectClass>a7d7fd2f-49dd-ee11-1aab-00155d6f92ce</BelongsToSchemaObjectClass>
+			<DisplayName>Entitlements</DisplayName>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectRelation>
+</NewDataSet>

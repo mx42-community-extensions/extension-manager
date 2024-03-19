@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectClass>
+		<ID>4c407d86-48dd-ee11-1aab-00155d6f92ce</ID>
+		<Name>CAEMExtension</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DisplayName>Extension</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<ClassType>13</ClassType>
+		<DisableHistory>1</DisableHistory>
+		<BasicSchemaAttributeClass>
+			<ID>39407d86-48dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>Name</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Name</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>200</AttributeLength>
+			<LanguageDependent>1</LanguageDependent>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>3a407d86-48dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>Description</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Schema-MetaInfo>
+				<Name>ContainsHtml</Name>
+				<Value>True</Value>
+			</Schema-MetaInfo>
+			<Description />
+			<DisplayName>Description</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>1</AllowNull>
+			<ValueType>8</ValueType>
+			<AttributeLength>0</AttributeLength>
+			<LanguageDependent>1</LanguageDependent>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>3b407d86-48dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>Category</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Category</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>2</ValueType>
+			<AttributeLength>4</AttributeLength>
+			<PickupClass>622206f8-47dd-ee11-1aab-00155d6f92ce</PickupClass>
+			<PickupAttribute>Value</PickupAttribute>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>e2cc5fdf-48dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>IsFree</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Is Free</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>9</ValueType>
+			<AttributeLength>1</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>e3cc5fdf-48dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>PackageId</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Package Id</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>1</ValueType>
+			<AttributeLength>16</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>e4cc5fdf-48dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>IsSubProduct</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Is Sub Product</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>9</ValueType>
+			<AttributeLength>1</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>e5cc5fdf-48dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>M42MarketplaceSKU</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Matrix42 Marketplace SKU</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>1</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>50</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>e6cc5fdf-48dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>AssemblyName</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Assembly Name</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>1</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>300</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>e7cc5fdf-48dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>DocumentationUrl</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Documentation Url</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>1</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>2000</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>e8cc5fdf-48dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>WebsiteUrl</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Website Url</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>1</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>2000</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>3d1f14e4-2ee1-ee11-1bab-00155d6f92ce</ID>
+			<Name>Tags</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Tags</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>1</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>1000</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>3e1f14e4-2ee1-ee11-1bab-00155d6f92ce</ID>
+			<Name>State</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>State</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>2</ValueType>
+			<AttributeLength>4</AttributeLength>
+			<PickupClass>b6abd421-2ee1-ee11-1bab-00155d6f92ce</PickupClass>
+			<PickupAttribute>Value</PickupAttribute>
+			<DefaultValue>10</DefaultValue>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>3f1f14e4-2ee1-ee11-1bab-00155d6f92ce</ID>
+			<Name>Icon</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Icon</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>1</AllowNull>
+			<ValueType>6</ValueType>
+			<AttributeLength>1</AttributeLength>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectClass>
+</NewDataSet>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NewDataSet>
+	<xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+		<xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="CAEMExtensionVersionPickupStatus" msdata:UseCurrentLocale="true">
+			<xs:complexType>
+				<xs:choice minOccurs="0" maxOccurs="unbounded">
+					<xs:element name="CAEMExtensionVersionPickupStatus">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="DisplayString" msdata:Caption="Display String" type="xs:string" minOccurs="0" />
+								<xs:element name="Value" type="xs:int" minOccurs="0" />
+								<xs:element name="Position" type="xs:int" minOccurs="0" />
+								<xs:element name="Hidden" type="xs:int" minOccurs="0" />
+								<xs:element name="ID" msdata:DataType="System.Guid, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" type="xs:string" minOccurs="0" />
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+				</xs:choice>
+			</xs:complexType>
+		</xs:element>
+	</xs:schema>
+	<CAEMExtensionVersionPickupStatus>
+		<DisplayString>Abandoned</DisplayString>
+		<Value>60</Value>
+		<Position>60</Position>
+		<Hidden>0</Hidden>
+		<ID>bb84f354-45dd-ee11-1aab-00155d6f92ce</ID>
+	</CAEMExtensionVersionPickupStatus>
+	<CAEMExtensionVersionPickupStatus>
+		<DisplayString>General Availability</DisplayString>
+		<Value>50</Value>
+		<Position>50</Position>
+		<Hidden>0</Hidden>
+		<ID>bc84f354-45dd-ee11-1aab-00155d6f92ce</ID>
+	</CAEMExtensionVersionPickupStatus>
+	<CAEMExtensionVersionPickupStatus>
+		<DisplayString>Pre-Release</DisplayString>
+		<Value>40</Value>
+		<Position>40</Position>
+		<Hidden>0</Hidden>
+		<ID>bd84f354-45dd-ee11-1aab-00155d6f92ce</ID>
+	</CAEMExtensionVersionPickupStatus>
+	<CAEMExtensionVersionPickupStatus>
+		<DisplayString>Approval Pending</DisplayString>
+		<Value>30</Value>
+		<Position>30</Position>
+		<Hidden>0</Hidden>
+		<ID>be84f354-45dd-ee11-1aab-00155d6f92ce</ID>
+	</CAEMExtensionVersionPickupStatus>
+	<CAEMExtensionVersionPickupStatus>
+		<DisplayString>Testing</DisplayString>
+		<Value>20</Value>
+		<Position>20</Position>
+		<Hidden>0</Hidden>
+		<ID>bf84f354-45dd-ee11-1aab-00155d6f92ce</ID>
+	</CAEMExtensionVersionPickupStatus>
+	<CAEMExtensionVersionPickupStatus>
+		<DisplayString>Development</DisplayString>
+		<Value>10</Value>
+		<Position>10</Position>
+		<Hidden>0</Hidden>
+		<ID>c084f354-45dd-ee11-1aab-00155d6f92ce</ID>
+	</CAEMExtensionVersionPickupStatus>
+</NewDataSet>

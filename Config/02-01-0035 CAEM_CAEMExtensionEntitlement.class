@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectClass>
+		<ID>41be0d9f-87dd-ee11-1aab-00155d6f92ce</ID>
+		<Name>CAEMExtensionEntitlement</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DisplayName>Extension Entitlement</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<ClassType>13</ClassType>
+		<DisableHistory>1</DisableHistory>
+		<BasicSchemaAttributeClass>
+			<ID>3bbe0d9f-87dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>Count</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Count</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>2</ValueType>
+			<AttributeLength>4</AttributeLength>
+			<DefaultValue>1</DefaultValue>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>3cbe0d9f-87dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>OrderReference</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Order Reference</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>100</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>3dbe0d9f-87dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>StartDate</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Start Date</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>3</ValueType>
+			<AttributeLength>9</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>3ebe0d9f-87dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>EndDate</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>End Date</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>1</AllowNull>
+			<ValueType>3</ValueType>
+			<AttributeLength>9</AttributeLength>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectClass>
+</NewDataSet>

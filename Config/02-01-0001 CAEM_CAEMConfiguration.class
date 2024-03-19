@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectClass>
+		<ID>00604607-42dd-ee11-1aab-00155d6f92ce</ID>
+		<Name>CAEMConfiguration</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<DisplayName>Extension Manager Configuration</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<ClassType>13</ClassType>
+		<DisableHistory>1</DisableHistory>
+		<BasicSchemaAttributeClass>
+			<ID>fc5f4607-42dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>CertificateThumbprint</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Certificate Thumbprint</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>1</AllowNull>
+			<ValueType>0</ValueType>
+			<AttributeLength>128</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>fd5f4607-42dd-ee11-1aab-00155d6f92ce</ID>
+			<Name>EnableProductBuilds</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Enable Product Builds</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>9</ValueType>
+			<AttributeLength>1</AttributeLength>
+		</BasicSchemaAttributeClass>
+		<BasicSchemaAttributeClass>
+			<ID>6e7f8c28-48e1-ee11-1bab-00155d6f92ce</ID>
+			<Name>IssuerId</Name>
+			<IsSchemaObject>0</IsSchemaObject>
+			<Description />
+			<DisplayName>Issuer Id</DisplayName>
+			<DisableHistory>1</DisableHistory>
+			<ProtectionLevel>4</ProtectionLevel>
+			<DataProtectionIgnored>0</DataProtectionIgnored>
+			<AllowNull>0</AllowNull>
+			<ValueType>1</ValueType>
+			<AttributeLength>16</AttributeLength>
+			<DefaultValue>12345678-0123-4567-89ab-cdef12345678</DefaultValue>
+		</BasicSchemaAttributeClass>
+	</BasicSchemaObjectClass>
+</NewDataSet>

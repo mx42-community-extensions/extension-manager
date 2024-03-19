@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectType>
+		<ID>a628f078-84dd-ee11-1aab-00155d6f92ce</ID>
+		<Name>CAEMCustomerType</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<Schema-MetaInfo>
+			<Name>ArchivingEnabled</Name>
+			<Value>False</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>AddActionPosition</Name>
+			<Value>0</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>UseUserCurrency</Name>
+			<Value>False</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>StateGroup</Name>
+			<Value>0</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>UUXColor</Name>
+			<Value>#F9E8C4</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>DisplayExpression</Name>
+			<Value>CustomerReference+' - '+CompanyName</Value>
+		</Schema-MetaInfo>
+		<DisplayName>Customer</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<BasedOnTypeClass>1a632665-84dd-ee11-1aab-00155d6f92ce</BasedOnTypeClass>
+	</BasicSchemaObjectType>
+</NewDataSet>

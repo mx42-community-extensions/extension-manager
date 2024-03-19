@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<NewDataSet>
+	<BasicSchemaObjectType>
+		<ID>37c6ab88-5ce0-ee11-1aab-00155d6f92ce</ID>
+		<Name>CAEMConfigurationType</Name>
+		<IsSchemaObject>0</IsSchemaObject>
+		<Schema-MetaInfo>
+			<Name>AddActionPosition</Name>
+			<Value>0</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>UUXIcon</Name>
+			<Value>settings</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>ArchivingEnabled</Name>
+			<Value>False</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>StateGroup</Name>
+			<Value>0</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>UseUserCurrency</Name>
+			<Value>False</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>UUXColor</Name>
+			<Value>#F8E7C1</Value>
+		</Schema-MetaInfo>
+		<Schema-MetaInfo>
+			<Name>DisplayExpression</Name>
+			<Value>'N/A'</Value>
+		</Schema-MetaInfo>
+		<DisplayName>Extension Manager Configuration</DisplayName>
+		<ProtectionLevel>4</ProtectionLevel>
+		<BasedOnTypeClass>00604607-42dd-ee11-1aab-00155d6f92ce</BasedOnTypeClass>
+	</BasicSchemaObjectType>
+</NewDataSet>

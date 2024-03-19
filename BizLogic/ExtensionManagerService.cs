@@ -9,5 +9,11 @@ namespace ExtensionManager.BizLogic
 {
     public class ExtensionManagerService : IExtensionManagerService
     {
+        private readonly ISigningService _signingService;
+
+        public ExtensionManagerService(ISigningService signingService)
+        {
+            _signingService = signingService;
+        }
     }
 }

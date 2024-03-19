@@ -8,6 +8,8 @@ namespace ExtensionManager.Properties
     {
         public void Register(IDependencyContainer container, IDependencyResolver resolver)
         {
+            container.RegisterSingletonType<ISigningService, SigningService>();
+            container.RegisterSingletonType<ILicensingService, LicensingService>();
             container.RegisterSingletonType<IExtensionManagerService, ExtensionManagerService>();
         }
     }

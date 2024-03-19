@@ -4,7 +4,7 @@
 $AssemblyName = "ExtensionManager"
 $ExtensionName = "Extension Manager"
 $ExtensionDescription = "Extension Manager"
-$ExtensionId = "00000000-1337-1337-1234-000000000000"
+$ExtensionId = "216ae555-73df-4eb3-9144-28fcb599d084"
 #########
 
 Write-Host "Starting packaging of the extension"
@@ -24,7 +24,7 @@ Write-Host "Copying assemblies"
     "$($assembliesFolder)ServiceRepository\BinaryComponents"
 ) | ForEach-Object {
     New-Item -ItemType Directory $_ -Force | Out-Null
-    Copy-Item "$($env:OutputPath)$AssemblyName.dll" $_
+    Copy-Item "$($env:OutputPath)$AssemblyName.dll*" $_
 }
 
 if(Test-Path -PathType Leaf "$($env:ProjectDir)package.json"){
